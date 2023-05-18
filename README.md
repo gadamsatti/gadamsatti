@@ -31,8 +31,6 @@
 
 ###
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/gadamsatti/gadamsatti/main/assets/snake.svg" alt="Snake animation" />
-</div>
+
 
 ###
