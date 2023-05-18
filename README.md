@@ -1,6 +1,6 @@
 <div align="center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=22&duration=4000&pause=4000&color=58A6FF&center=true&vCenter=true&multiline=true&width=435&lines=Hello+there!!+This+is+Akhil%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FF209A00&center=true&vCenter=true&width=435&lines=Hey+there!!+I+am+Akhil+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
 
@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Satishpokala124/Satishpokala124/main/assets/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gadamsatti/gadamsatti/main/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ###
